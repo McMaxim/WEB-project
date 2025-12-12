@@ -66,12 +66,6 @@ FizTech Tutors provides a simple way for users (school students, university stud
 - Moderate reviews
 - View platform statistics
 
-## 🎬 Demo
-
-**Live Demo**: [https://shilnikovad.github.io/max/](https://shilnikovad.github.io/max/)
-
-The application is deployed on GitHub Pages and uses mock data for demonstration purposes.
-
 ## 🛠 Technical Stack
 
 ### Frontend
